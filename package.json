@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/markqueue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mark color queue values and contrast-safe presentation helpers.",
+  "bin": {
+    "markqueue": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/markqueue.git"
+  },
+  "homepage": "https://theworker02.github.io/markqueue/",
+  "keywords": [
+    "mark",
+    "queue",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
